@@ -1,6 +1,14 @@
 public class Main {
     public static void main(String[] args) {
 
+      int amount = 15324;
+      long bonus = amount / 20;
+
+        System.out.println("Итоговый бонус:" +bonus);
+
+
+
+
         // Объявляете переменные для входных данных и
         // параметров программы: одну для хранения
         // стоимости билета, другую для хранения количества
