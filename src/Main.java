@@ -2,7 +2,9 @@ public class Main {
   public static void main(String[] args) {
 
     int amount = 15324;
-    long bonus = amount / 20;
+    int mile = 1 / 20;
+
+    long bonus = amount * mile;
 
     System.out.println("Итоговый бонус:" + bonus);
 
