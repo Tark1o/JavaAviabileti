@@ -3,7 +3,7 @@ public class Main {
 
     int amount = 15324;
 
-    long bonus = amount/20;
+    long bonus = amount / 20;
 
     System.out.println("Итоговый бонус:" + bonus);
 
